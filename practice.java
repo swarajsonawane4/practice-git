@@ -10,5 +10,11 @@ public class practice {
         System.out.println("mangala");
         System.out.println("manoj");
         System.out.println("siddhu");
+
+
+        System.out.println("swaraj sonawane");
+        System.out.println("mangala");
+        System.out.println("manoj");
+        System.out.println("siddhu");
     }
 }
